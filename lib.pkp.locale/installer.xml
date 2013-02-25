@@ -33,7 +33,7 @@
 	<message key="installer.databaseHost">Host</message>
 	<message key="installer.databaseHostInstructions">Leave the hostname blank to connect using domain sockets instead of over TCP/IP. This is not necessary with MySQL, which will automatically use sockets if "localhost" is entered, but is required with some other database servers such as PostgreSQL.</message>
 	<message key="installer.databaseName">Database name</message>
-	<message key="installer.databasePassword">Password</message>
+	<message key="installer.databasePassword">Pasoword</message>
 	<message key="installer.databaseSettings">Database Settings</message>
 	<message key="installer.databaseUsername">Username</message>
 	<message key="installer.encryptionInstructions">SHA1 is recommended if your system supports it (requires PHP >= 4.3.0).</message>
