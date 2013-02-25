@@ -13,7 +13,7 @@
   -->
 
 <locale name="en_US" full_name = "English">
-	<message key="admin.adminFunctions">Administrative Functions</message>
+	<message key="admin.adminFunctions">Адміністративні функції (Administrative Functions)</message>
 	<message key="admin.auth.confirmDelete">Are you sure you want to permanently delete this authentication source?</message>
 	<message key="admin.auth.create">Create authentication source</message>
 	<message key="admin.auth.noneCreated">No authentication sources have been defined.</message>
