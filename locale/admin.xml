@@ -14,7 +14,7 @@
 
 <locale name="en_US" full_name = "English">
 	<message key="admin.languages.primaryLocaleInstructions">Це буде мовою за замовчуванням для сайту і будь-якої розміщенної на сайті конференції.</message>
-	<message key="admin.languages.supportedLocalesInstructions">Виберіть мови для підтримки на сайті. Вибрані мови будуть доступні для використання всім конференціям розміщених на сайті, а також з'являться в меню вибору мов на кожній сторінці сайту(які можна змінмити для конкретних конференцій). Якщо не буде вибрано декілька мов для сайту, то перемикач мов не з'явиться і розширині налаштування вибору мови не будуть доступні для конференцій.</message>
+	<message key="admin.languages.supportedLocalesInstructions">Виберіть мову для підтримки на сайті. Вибрані мови будуть доступні для використання всім конференціям розміщених на сайті, а також з'являться в меню вибору мов на кожній сторінці сайту(які можна змінмити для конкретних конференцій). Якщо не буде вибрано декілька мов для сайту, то перемикач мов не з'явиться і розширині налаштування вибору мови не будуть доступні для конференцій.</message>
 	<message key="admin.locale.maybeIncomplete">Позначені мови можуть бути незавершеними. </message>
 	<message key="admin.languages.confirmUninstall">Ви впевнені, що хочете видалити цю мову? Це може вплинути на будь-яку конференцію розміщену на сайті, яка використовує цю мову.</message>
 	<message key="admin.languages.installNewLocalesInstructions">Select any additional locales to install support for in this system. Locales must be installed before they can be used by hosted conferences. See the OCS documentation for information on adding support for new languages.</message>
