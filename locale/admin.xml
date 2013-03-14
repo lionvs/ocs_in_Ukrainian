@@ -40,7 +40,7 @@
 	<message key="admin.conferences.form.pathAlphaNumeric">Шлях може містити тільки буквено-цифрові символи, підкреслення та дефіс, і повинний починатися і закінчуватися алфавітно-цифровим символом.</message>
 	<message key="admin.conferences.form.pathExists">Обраний шлях вже використовується іншою конференцією.</message>
 	<message key="admin.conferences.enableConferenceInstructions">Дозволити цій конференції з'являтися публічно на сайті.</message>
-	<message key="admin.conferences.conferenceDescription"Опис конференції</message>
+	<message key="admin.conferences.conferenceDescription">Опис конференції</message>
 	<message key="admin.conferences.conferenceDescriptionInstructions">Опис конференції визначає поточну місію цієї конференції. Він з'являється на головній сторінці конференції, а також на всіх конвенційних сторінках конференції.</message>
 	<message key="admin.conferences.importOCS1">Імпортувати з OCS 1</message>
 	<message key="admin.conferences.importOCS1.editMigratedConference">Редагувати перенесені конференції</message>
