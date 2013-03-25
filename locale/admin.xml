@@ -44,25 +44,25 @@
 	<message key="admin.conferences.conferenceDescriptionInstructions">Опис конференції визначає поточну місію цієї конференції. Він з'являється на головній сторінці конференції, а також на всіх конвенційних сторінках конференції.</message>
 	<message key="admin.conferences.importOCS1">Імпортувати з OCS 1</message>
 	<message key="admin.conferences.importOCS1.editMigratedConference">Редагувати перенесені конференції</message>
-	<message key="admin.conferences.importOCS1.conflict.desc">Some user accounts had conflicting information. OCS 1.x allows multiple user accounts to share the same email address, while OCS 2.x does not. In the list below, the second account listed has had a temporary email account assigned to it. These should be corrected by hand, either by assigning a different email account, or by merging accounts.</message>
-	<message key="admin.conferences.importOCS1.errors.desc">The following errors were encountered when migrating from the OCS 1.x conference into OCS 2.x.</message>
+	<message key="admin.conferences.importOCS1.conflict.desc">Деякі облікові записи мають суперечливу інформацію. OCS 1.x дозволяє використовувати декілька облікових записів на одній і тій же адресу електронній пошті, у той час як OCS 2.x цього не може зробити. У наведеному нижче списку, другий обліковий запис має тимчасовий обліковий запис електронної пошти, призначений для нього. Вони повинні бути виправлені вручну або шляхом присвоєння іншого облікового запису електронної пошти, або шляхом об'єднання облікових записів.</message>
+	<message key="admin.conferences.importOCS1.errors.desc">Було виявлено наступні помилки при переході з конференції OCS 1.x OCS в OCS 2.x. .</message>
 	<message key="admin.conferences.importOCS1.conflict">{$firstUsername} ({$firstName}) and {$secondUsername} ({$secondName})</message>
-	<message key="admin.conferences.importOCS1Instructions"><![CDATA[Consult the UPGRADE document distributed with OCS for detailed information on migrating data from OCS 1 to OCS 2. Note that this process will NOT create a completely configured OCS 2 conference; only certain items (e.g. papers) will be imported. <strong>All imported users will need to reset their passwords. It is strongly suggested that the Conference Director review all imported information before launching the conference website.</strong>]]></message>
-	<message key="admin.conference.pathImportInstructions">Existing conference path or path to create (e.g., "ocs").</message>
+	<message key="admin.conferences.importOCS1Instructions"><![CDATA[Перегляньте документ оновленням, який поширюється з OCS для докладної інформації про перенесення даних з OCS 1 до OCS 2. Зверніть увагу, що цей процес не створить повністю налаштовану OCS 2 конференцію, лише певні елементи (наприклад, папір) будуть імпортуватися.<strong> Всі імпортовані користувачі повинні оновити свої паролі. Настійно рекомендується, щоб Директор Конференції переглянув всю імпортовану інформацію, перш ніж запускати сайт конференції. </strong>]]></message>
+	<message key="admin.conference.pathImportInstructions">снуючий шлях конференції або шлях до створення (наприклад, "OCS").</message>
 	<message key="admin.conference.importPath">Шлях до OCS 1</message>
-	<message key="admin.conference.importPathInstructions">Complete local filesystem path to the OCS 1 installation (e.g., "/var/www/ocs").</message>
-	<message key="admin.conferences.importRegistrations">Import registrations</message>
-	<message key="admin.conferences.emailUsers">Email created users with login information, including a random password</message>
-	<message key="admin.conferences.transcode">Transcode paper metadata from ISO8859-1</message>
-	<message key="admin.conferences.form.importPathRequired">The import path is required.</message>
-	<message key="admin.conferences.importErrors">Importing failed to complete successfully</message>
+	<message key="admin.conference.importPathInstructions">Запишіть локальний шлях установки файлової системи OCS 1 (наприклад, "/var/www/ocs").</message>
+	<message key="admin.conferences.importRegistrations">Імпорт реєстрації</message>
+	<message key="admin.conferences.emailUsers">E-mail створює користувача з вхідною інформацією, в тому числі випадковим паролем</message>
+	<message key="admin.conferences.transcode">Перекодувати метадані з ISO8859-1</message>
+	<message key="admin.conferences.form.importPathRequired">Потрібний шлях перенесення даних</message>
+	<message key="admin.conferences.importErrors">Імпорт не вдалося завершити успішно.</message>
 
 	<!-- Site Administration Merge Users -->	
 	<message key="admin.mergeUsers">Об'єднати користувачів.</message>
 	<message key="admin.mergeUsers.mergeUser">Об'єднати користувача.</message>
-	<message key="admin.mergeUsers.into.description">Select a user to whom to attribute the previous user's submissions, editing assignments, etc.</message>
-	<message key="admin.mergeUsers.from.description">Select a user (or several) to merge into another user account (e.g., when someone has two user accounts). The account(s) selected first will be deleted and any submissions, assignments, etc. will be attributed to the second account.</message>
-	<message key="admin.mergeUsers.allUsers">All Enrolled Users</message>
-	<message key="admin.mergeUsers.confirm">Are you sure you wish to merge the selected {$oldAccountCount} account(s) into the account with the username "{$newUsername}"? The selected {$oldAccountCount} accounts will not exist afterwards. This action is not reversible.</message>
-	<message key="admin.mergerUsers.noneEnrolled">No enrolled users.</message>
+	<message key="admin.mergeUsers.into.description">Виберіть користувача, якому приписувати представлення попереднього користувача, редагування завдань і т.д..</message>
+	<message key="admin.mergeUsers.from.description">Виберіть ожного користувача (або декілька), щоб об'єднати в інший обліковий запис користувача (наприклад, коли у когось є дві облікові записи користувачів). Обліковий запис (записи) обраний першим буде видалений, а будь-які матеріали, завдання і т.д. будуть віднесені до другого запису.</message>
+	<message key="admin.mergeUsers.allUsers">Всі зареєстровані користувачі</message>
+	<message key="admin.mergeUsers.confirm">Ви впевнені, що хочете об'єднати обраний {$oldAccountCount} обліковий запис(записи) на запис з ім'ям користувача "{$newUsername}"? Обраний {$oldAccountCount} запис не буде існувати після цього. Ця дія не є оборотною.</message>
+	<message key="admin.mergerUsers.noneEnrolled">Немає зареєстрованих користувачів</message>
 </locale>
