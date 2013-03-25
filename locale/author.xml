@@ -12,8 +12,8 @@
   -->
 
 <locale name="en_US" full_name = "English">
-	<message key="author.submit">New Submission</message>
-	<message key="author.track">Active Submissions</message>
+	<message key="author.submit">Нові заяви</message>
+	<message key="author.track">Активні заяви</message>
 	<message key="author.submit.startHere">Start here to submit a paper to this conference.</message>
 	<message key="author.submit.startHereLink">Step one of the submission process</message>
 	<message key="author.submit.step1">Step 1. Starting the Submission</message>
