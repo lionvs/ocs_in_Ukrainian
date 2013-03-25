@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<locale name="en_US" full_name = "English">
+<locale name="uk_UA" full_name = "Ukraine">
 	<message key="manager.accommodation">Розміщення</message>
 	<message key="manager.accommodation.form.accommodationFiles">Файли</message>
 	<message key="manager.accommodation.form.accommodationFiles.description">Використовуйте цей розділ для завантаження одного чи більше файлів(такі як карта, бланки і т.д.) для зареєстрованих чи потенційно зареєстрованих коритсувачів such as maps, forms, etc.</message>
