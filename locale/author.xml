@@ -12,47 +12,47 @@
   -->
 
 <locale name="en_US" full_name = "English">
-	<message key="author.submit">Нові заяви</message>
-	<message key="author.track">Активні заяви</message>
-	<message key="author.submit.startHere">Start here to submit a paper to this conference.</message>
-	<message key="author.submit.startHereLink">Step one of the submission process</message>
-	<message key="author.submit.step1">Step 1. Starting the Submission</message>
-	<message key="author.submit.step3">Step 3. Entering the Submission's Metadata</message>
-	<message key="author.submit.step3AbstOnly">Step 2. Entering the Submission's Metadata</message>
-	<message key="author.submit.step4AbstOnly">Step 3. Uploading Supplementary Files</message>
-	<message key="author.submit.step2">Step 2. Uploading the Submission</message>
-	<message key="author.submit.step2NoAbstracts">Step 3. Uploading the Submission</message>	
-	<message key="author.submit.step4">Step 4. Uploading Supplementary Files</message>
-	<message key="author.submit.step4a">Step 4a. Add a Supplementary File</message>
-	<message key="author.submit.step5">Step 5. Confirming the Submission</message>
-	<message key="author.submit.step5SkipSupp">Step 4. Confirming the Submission</message>
-	<message key="author.submit.start">1. Start</message>
-	<message key="author.submit.metadata">3. Enter Metadata</message>
-	<message key="author.submit.metadataOnly">2. Enter Metadata</message>
-	<message key="author.submit.upload">2. Upload Submission</message>
-	<message key="author.submit.uploadOnly">3. Upload Submission</message>
-	<message key="author.submit.supplementaryFiles">4. Upload Supplementary Files</message>
-	<message key="author.submit.supplementaryFilesAbstractOnly">3. Upload Supplementary Files</message>
-	<message key="author.submit.supplementaryFilesInfoAbstractOnly">3a. Uploading Supplementary Files</message>
-	<message key="author.submit.confirmation">5. Confirmation</message>
-	<message key="author.submit.confirmationSkipSupp">4. Confirmation</message>
-	<message key="author.submit.cancelSubmission">You can complete this submission at a later date by selecting Active Submissions from the Author home.</message>
-	<message key="author.submit.notAcceptingYet">This conference has not yet started accepting submissions.</message>
-	<message key="author.submit.notAccepting">This conference is not accepting submissions.</message>
-	<message key="author.submit.submissionDeadlinePassed">Submissions for this conference were closed on {$closedDate}.</message>
-	<message key="author.submit.authorRegistrationClosed">Author registration is closed for this conference.</message>
-	<message key="author.submissions.queuedAbstractReviewRevisions">Abstract In Review: Revisions Required</message>
-	<message key="author.submissions.queuedPaperReviewRevisions">Paper In Review: Revisions Required</message>
-	<message key="author.submissions.confirmDelete">Are you sure you want to delete this incomplete submission?</message>
-	<message key="author.submissions.viewStatus">View Status</message>
-	<message key="author.submissions.noSubmissions">No submissions.</message>
-	<message key="author.submit.howToSubmit"><![CDATA[Encountering difficulties? Contact <a href="mailto:{$supportEmail}">{$supportName}</a> for assistance ({$supportPhone}).]]></message>
-	<message key="author.submit.howToSubmitNoPhone"><![CDATA[Encountering difficulties? Contact <a href="mailto:{$supportEmail}">{$supportName}</a> for assistance.]]></message>
-	<message key="author.submit.conferenceTrack">Conference Track</message>
-	<message key="author.submit.conferenceTrackDescription"><![CDATA[Select the appropriate track for this submission (see <a href="{$aboutUrl}" target="_new">Track Policies</a>).]]></message>
-	<message key="author.submit.selectTrack">Please select a track...</message>
-	<message key="author.submit.submissionChecklist">Submission Checklist</message>
-	<message key="author.submit.submissionChecklistDescription">Indicate that this submission is ready to be considered by this conference by checking off the following (comments to the director can be added below).</message>
+	<message key="author.submit">Нові Заяви</message>
+	<message key="author.track">Активні Заяви</message>
+	<message key="author.submit.startHere">Почніть звідси, щоб подати документи на цю конференцію.</message>
+	<message key="author.submit.startHereLink">Оберіть один з процесів подачі заявки</message>
+	<message key="author.submit.step1">Крок 1. Початок подачі заяви</message>
+	<message key="author.submit.step3">Крок 3. Входження в Метадані користувача</message>
+	<message key="author.submit.step3AbstOnly">Крок 2. Входження в Метадані користувача</message>
+	<message key="author.submit.step4AbstOnly">Крок 3. Заванатаження додаткових даних</message>
+	<message key="author.submit.step2">Крок 2. Завантаження заяви</message>
+	<message key="author.submit.step2NoAbstracts">Крок 3. Завантаження заяви</message>	
+	<message key="author.submit.step4">Крок 4. Заванатаження додаткових даних</message>
+	<message key="author.submit.step4a">Крок 4a. Додайте додаткові дані</message>
+	<message key="author.submit.step5">Крок 5. Підтвердження заяви</message>
+	<message key="author.submit.step5SkipSupp">Крок 4. Підтвердження заяви</message>
+	<message key="author.submit.start">1. Початок</message>
+	<message key="author.submit.metadata">3. Введіть Метадані</message>
+	<message key="author.submit.metadataOnly">2. Введіть Метадані</message>
+	<message key="author.submit.upload">2. Завантажити заяви</message>
+	<message key="author.submit.uploadOnly">3. Завантаження заяви</message>
+	<message key="author.submit.supplementaryFiles">4.  Заванатаження додаткових даних</message>
+	<message key="author.submit.supplementaryFilesAbstractOnly">3.  Заванатаження додаткових даних</message>
+	<message key="author.submit.supplementaryFilesInfoAbstractOnly">3a. Заванатаження додаткових даних</message>
+	<message key="author.submit.confirmation">5. Пдтвердження</message>
+	<message key="author.submit.confirmationSkipSupp">4. Підтвердження</message>
+	<message key="author.submit.cancelSubmission">Ви можете завершити цю заяву пізніше, вибравши Активні Заяви на домашній сторінці автора.</message>
+	<message key="author.submit.notAcceptingYet">Ця конференція ще не розпочала приймати заяви.</message>
+	<message key="author.submit.notAccepting">Ця конференція не приймає заяви.</message>
+	<message key="author.submit.submissionDeadlinePassed">Подача заяви на цю конференцію закінчилась в {$closedDate}.</message>
+	<message key="author.submit.authorRegistrationClosed">Реєстрація Автора закрита для цієї конференції.</message>
+	<message key="author.submissions.queuedAbstractReviewRevisions">Анотація в огляді: Потребуються зміни</message>
+	<message key="author.submissions.queuedPaperReviewRevisions">Документи в огляді: Потребуються зміни</message>
+	<message key="author.submissions.confirmDelete">Ви впевнені, що хочете видалити цю неповну заяву?</message>
+	<message key="author.submissions.viewStatus">Стан перегляду</message>
+	<message key="author.submissions.noSubmissions">Немає заяв</message>
+	<message key="author.submit.howToSubmit"><![CDATA[Зіткнулись з труднощами? Зв'яжіться з  <a href="mailto:{$supportEmail}">{$supportName}</a> для допомоги ({$supportPhone}).]]></message>
+	<message key="author.submit.howToSubmitNoPhone"><![CDATA[Зіткнулись з труднощами? Зв'яжіться з <a href="mailto:{$supportEmail}">{$supportName}</a> для допомоги.]]></message>
+	<message key="author.submit.conferenceTrack">Дані відсліджування Конференції</message>
+	<message key="author.submit.conferenceTrackDescription"><![CDATA[Вберіть потроібний трек для цієї заяви (див. <a href="{$aboutUrl}" target="_new">TПолітика відслідковування</a>).]]></message>
+	<message key="author.submit.selectTrack">Будь ласка, виберіть трек...</message>
+	<message key="author.submit.submissionChecklist">Контрольний список заяв</message>
+	<message key="author.submit.submissionChecklistDescription">Визначте чи ця заява готова для розгляду в цій конференції, перевіривши наступне (коментарі до директора можуть бути додані нижче).</message>
 	<message key="author.submit.verifyChecklist">You must make sure all items in the submission checklist are satisfied before continuing.</message>
 	<message key="author.submit.copyrightNoticeAgree">The authors agree to the terms of this Copyright Notice, which will apply to this submission if and when it is published by this conference (comments to the director can be added below).</message>
 	<message key="author.submit.copyrightNoticeAgreeRequired">You must agree to the terms of the Copyright Notice before continuing.</message>
