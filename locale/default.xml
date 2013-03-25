@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<locale name="en_US" full_name="U.S. English">
+<locale name="uk_UA" full_name="Ukraine">
 	<message key="default.paperType.individual.name">Individual Submission</message>
 	<message key="default.paperType.individual.description"></message>
 	<message key="default.paperType.panel.name">Panel Submission</message>
