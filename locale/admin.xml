@@ -48,7 +48,7 @@
 	<message key="admin.conferences.importOCS1.errors.desc">Було виявлено наступні помилки при переході з конференції OCS 1.x OCS в OCS 2.x. .</message>
 	<message key="admin.conferences.importOCS1.conflict">{$firstUsername} ({$firstName}) and {$secondUsername} ({$secondName})</message>
 	<message key="admin.conferences.importOCS1Instructions"><![CDATA[Перегляньте документ оновленням, який поширюється з OCS для докладної інформації про перенесення даних з OCS 1 до OCS 2. Зверніть увагу, що цей процес не створить повністю налаштовану OCS 2 конференцію, лише певні елементи (наприклад, папір) будуть імпортуватися.<strong> Всі імпортовані користувачі повинні оновити свої паролі. Настійно рекомендується, щоб Директор Конференції переглянув всю імпортовану інформацію, перш ніж запускати сайт конференції. </strong>]]></message>
-	<message key="admin.conference.pathImportInstructions">снуючий шлях конференції або шлях до створення (наприклад, "OCS").</message>
+	<message key="admin.conference.pathImportInstructions">Існуючий шлях конференції або шлях до створення (наприклад, "OCS").</message>
 	<message key="admin.conference.importPath">Шлях до OCS 1</message>
 	<message key="admin.conference.importPathInstructions">Запишіть локальний шлях установки файлової системи OCS 1 (наприклад, "/var/www/ocs").</message>
 	<message key="admin.conferences.importRegistrations">Імпорт реєстрації</message>
