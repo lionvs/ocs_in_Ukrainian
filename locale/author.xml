@@ -11,7 +11,7 @@
   *
   -->
 
-<locale name="en_US" full_name = "English">
+<locale name="uk_UA" full_name = "Ukraine">
 	<message key="author.submit">Нові Заяви</message>
 	<message key="author.track">Активні Заяви</message>
 	<message key="author.submit.startHere">Почніть звідси, щоб подати документи на цю конференцію.</message>
