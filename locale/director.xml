@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<locale name="en_US" full_name = "English">
+<locale name="ek_UA" full_name = "Ukraine">
 	<message key="director.home">Director Home</message>
 	<message key="director.submissionQueue">Submission Queue</message>
 	<message key="director.submissionArchive">Submission Archive</message>
