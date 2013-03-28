@@ -28,7 +28,7 @@
 	<message key="admin.settings.conferenceRedirect">Переадресація конференції</message>
 	<message key="admin.settings.conferenceRedirectInstructions">Запит на головну сторінку сайту буде переадресований на сторінку цієї конференції. Для прикладу, це буде корисно, якщо сайт підтримує тільки одну конференцію.</message>
 	<message key="admin.settings.noConferenceRedirect">Не переадресовувати</message>
-	<message key="admin.auth.ocs">База даних користувачів OCS</message>
+	<message key="admin.auth.ocs">База даних користувачів OCS</message> 
 	<message key="admin.conferences.conferenceSettings">Налаштування конференції</message>
 	<message key="admin.conferences.noneCreated">Жодна конференція ще не була створена.</message>
 	<message key="admin.conferences.confirmDelete">Ви впевнені, що хочете видалити цю конференцію і всі її дані?</message>
