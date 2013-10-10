@@ -576,11 +576,11 @@
 	<message key="manager.setup.layout.navItemIsLiteral">The label value is a literal string (e.g., "Conference Setup") rather than a localization message key (e.g., "manager.setup")</message>
 	<message key="manager.setup.layout.noImageFileUploaded">No image file uploaded.</message>
 	<message key="manager.setup.layout.numPageLinks">Page links</message>
-	<message key="manager.setup.layout.title">Step 3. Website Headers, Footers, Lists and Navigation Bar</message>
-	<message key="manager.setup.layout.useImageLogo">Logo image</message>
-	<message key="manager.setup.layout.useImageTitle">Title image</message>
-	<message key="manager.setup.layout.useTextTitle">Title text</message>
-	<message key="manager.setup.loggingAndAuditing.brief">Logging &amp;amp; Auditing</message>
+	<message key="manager.setup.layout.title">Крок 3. Заголовки сторінки, футери, списки та навігаційна стрічка.</message>
+	<message key="manager.setup.layout.useImageLogo">Лого малюнок</message>
+	<message key="manager.setup.layout.useImageTitle">Малюнок заголовку</message>
+	<message key="manager.setup.layout.useTextTitle">Текст заголовку</message>
+	<message key="manager.setup.loggingAndAuditing.brief">Вхід &amp;amp; Аудит</message>
 	<message key="manager.setup.loggingAndAuditing.conferenceEventLogging">Conference event logging.</message>
 	<message key="manager.setup.loggingAndAuditing.description">Email logs, event logs, etc.</message>
 	<message key="manager.setup.loggingAndAuditing.pageDescription">Maintain a log of the following actions and materials for all conferences.</message>
@@ -685,10 +685,10 @@
 	<message key="manager.tracks.readingTools">Reading Tools</message>
 	<message key="manager.tracks.submissionNotReviewed">Indicate that track is not peer-reviewed</message>
 	<message key="manager.tracks.trackDirectorInstructions">Add a Track Director to this track to have submissions automatically assigned to the Track Director. (Otherwise, Track Directors can be assigned manually, after a submission comes in.) Track Directors are created by clicking Track Directors under Roles in Conference Management.</message>
-	<message key="manager.tracks.unassignDirector">Un-assign Director</message>
-	<message key="manager.tracks.unassigned">Available Track Directors</message>
-	<message key="manager.tracks.wordCount">Word Count</message>
-	<message key="manager.tracks.wordCountInstructions">Limit abstract word counts for this section (0 for no limit): </message>
-	<message key="manager.websiteManagement">Website Management</message>
+	<message key="manager.tracks.unassignDirector">Відв'язати голову</message>
+	<message key="manager.tracks.unassigned">Доступні голови секції</message>
+	<message key="manager.tracks.wordCount">Кількість слів</message>
+	<message key="manager.tracks.wordCountInstructions">Обмеження на кількість слів в анотації для даної частини ( 0 для зняття обмеження ): </message>
+	<message key="manager.websiteManagement">Управління веб-сайтом</message>
 
 </locale>
